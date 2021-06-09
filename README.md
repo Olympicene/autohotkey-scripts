@@ -12,3 +12,6 @@ Sets your current active window to the top layer.
 
 ##### [UnderscorePaste](UnderscorePaste)
 Replaces the any text with sapces in your clipboard with underscores.
+
+##### [BetterRecord](BetterRecord)
+Makes a basic recording of mouse and key clicks, no dragging of anything. Just quicker than puppeteer.
