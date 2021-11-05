@@ -15,3 +15,6 @@ Replaces every space of the text in your clipboard with underscores.
 
 ##### [BetterRecord](BetterRecord)
 Makes a basic recording of mouse and key clicks, no dragging of anything. Just quicker than puppeteer.
+
+##### [NumpadVolume](NumpadVolume)
+Changes the plus and minus numpad keys into volume buttons.
