@@ -19,5 +19,5 @@ Makes a basic recording of mouse and key clicks, no dragging of anything. Just q
 ##### [NumpadVolume](NumpadVolume)
 Changes the plus and minus numpad keys into volume buttons.
 
-##### [TKO Suggestions](TKO Suggestions)
+##### [TKO Suggestions](TKO%20Suggestions)
 Changes the plus and minus numpad keys into volume buttons.
