@@ -20,4 +20,4 @@ Makes a basic recording of mouse and key clicks, no dragging of anything. Just q
 Changes the plus and minus numpad keys into volume buttons.
 
 ##### [TKO Suggestions](TKO%20Suggestions)
-Changes the plus and minus numpad keys into volume buttons.
+Types out suggestions from an input file (for TKO)
