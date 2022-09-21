@@ -5,23 +5,23 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 #IfWinActive, ahk_exe chrome.exe  
 
-:R*?:]ddd::
+:R*?:ddd]::
 FormatTime, CurrentDateTime,, yy.MM.dd.
 SendInput %CurrentDateTime%
 return
-:R*?:]xxx::
+:R*?:xxx]::
 FormatTime, CurrentDateTime,, MM/dd HH:mm
 SendInput %CurrentDateTime%
 return
-:R*?:]aaa::
+:R*?:aaa]::
 FormatTime, CurrentDateTime,, yyMMdd
 SendInput %CurrentDateTime%
 return
-:R*?:]jjd::
+:R*?:jjd]::
 FormatTime, CurrentDateTime,, dd-MM-yy
 SendInput %CurrentDateTime%
 return
-:R*?:]yyy::
+:R*?:yyy]::
 FormatTime, CurrentDateTime,, dd-MM-yy HH:mm
 SendInput %CurrentDateTime%
 return
