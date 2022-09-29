@@ -1,11 +1,11 @@
 # autohotkey-scripts
-Personal Collection of AutoHotkey Scripts 
+Personal Collection of AutoHotkey / Autokey Scripts 
 
 Download AutoHotkey: http://www.autohotkey.com/
 <hr>
 
 ##### [Date](Date)
-Types the current date in various different formats by pressing a 3 key combination.
+Types the current date in various different formats by pressing a 4 key combination.
 
 ##### [SetWindowTop](SetWindowTop)
 Sets your current active window to the top layer.
